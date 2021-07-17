@@ -1,5 +1,6 @@
 {
   "name": "covid-19-tracker",
+  "homepage": "https://shubhamhere.github.io/covid19-world-map",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
